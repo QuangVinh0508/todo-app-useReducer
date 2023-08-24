@@ -1,7 +1,7 @@
 # todo-app-useReducer
 
 ## Demo
-https://todo-app-use-reducer.vercel.app
+https://main--spontaneous-donut-9cc607.netlify.app/
 
 ## Description
 
