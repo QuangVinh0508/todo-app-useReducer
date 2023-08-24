@@ -15,4 +15,3 @@ The Todo App with useReducer and Material-UI is a task management application bu
 - Delete tasks from the list.
 - Clean and modern user interface with Material-UI components.
 - Responsive design for seamless use on various devices.
-# todo-app-useReducer
